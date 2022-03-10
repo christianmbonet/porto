@@ -30,7 +30,7 @@ span {
 }
 
 h1 {
-    color: lightgrey;
+    color: white;
     font-weight: bolder;
 }
 
@@ -55,19 +55,19 @@ div {
 }
 
 p.seamb {
-  color: white;
+  color: lightgrey;
 }
 
 p.cmb {
-  color: white;
+  color: lightgrey;
 }
 
 p.leftBackslash {
-  color: lightgray
+  color: lightgrey;
 }
 
 p.rightBackslash {
-  color: lightgray;
+  color: lightgrey;
 }
 
 p {
