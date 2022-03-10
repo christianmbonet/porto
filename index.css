@@ -1,0 +1,137 @@
+a {
+    color: hotpink;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bolder;
+    }
+
+a:last-child {
+    color: hotpink;
+      }
+
+body {
+  color: white;
+  background-color: black;
+}
+
+
+p {
+  color:lightblue;
+}
+
+p.skills {
+  color: hotpink;
+  font-weight: bolder;
+}
+
+span {
+  font-weight: lighter;
+  color: white;
+}
+
+h1 {
+    color: lightgrey;
+    font-weight: bolder;
+}
+
+h2 {
+  color: lightgrey;
+  font-weight: bolder;
+}
+
+div {
+  margin: 10px;
+}
+
+.imageBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 325px;
+    font-size: larger;
+    border-radius: 150px;
+    color: lightgray;
+}
+
+p.seamb {
+  color: white;
+}
+
+p.cmb {
+  color: white;
+}
+
+p.leftBackslash {
+  color: lightgray
+}
+
+p.rightBackslash {
+  color: lightgray;
+}
+
+p {
+  color: white;
+}
+
+.dates {
+  color: lightslategrey;
+  font-weight: lighter;
+}
+
+
+.projectsContainer {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid red;
+    opacity: 65%;
+    border-radius: 50px;
+    margin: 15px;
+}
+
+.projectsContainerText {
+    margin: 0px;
+    padding: 25px;
+}
+
+.experienceContainer {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid blue;
+    opacity: 65%;
+    border-radius: 50px;
+    margin: 15px;
+}
+
+.experienceContainerText {
+    margin: 0px;
+    padding: 25px;
+}
+
+.educationContainer {
+    display: flex;
+    flex-direction: column;
+    opacity: 65%;
+    border: 5px solid yellow;
+    border-radius: 50px;
+    margin: 15px;
+}
+
+.educationContainerText {
+    margin: 0px;
+    padding: 25px;
+}
+
+.skillsContainer {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid green;
+    opacity: 65%;
+    border-radius: 50px;
+    margin: 15px;
+}
+
+.skillsContainerText {
+    margin: 0px;
+    padding: 25px;
+}
