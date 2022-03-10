@@ -1,3 +1,9 @@
-# Christian's Resume
+# christianmbonet.github.io
 
-HTML & CSS files to host my resume through github pages
+Personal website which serves as a resume and cv.
+
+## Technologies Used:
+
+* HTML
+* CSS
+* Deployment: GitHub
