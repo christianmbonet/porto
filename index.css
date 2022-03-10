@@ -91,7 +91,7 @@ p {
 
 .projectsContainerText {
     margin: 0px;
-    padding: 25px;
+    padding: 25px
 }
 
 .experienceContainer {
@@ -125,7 +125,7 @@ p {
 .skillsContainer {
     display: flex;
     flex-direction: column;
-    border: 5px solid green;
+    border: 5px solid #2a9134;
     opacity: 65%;
     border-radius: 50px;
     margin: 15px;
